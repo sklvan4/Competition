@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trigonometry", "Trigonometry\Trigonometry.csproj", "{8B5E6216-7DEE-48D9-B458-9DC45259E1FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trigonometry.Tests", "Trigonometry.Tests\Trigonometry.Tests.csproj", "{12D43EB3-859A-4F9A-BBC9-468334444711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B5E6216-7DEE-48D9-B458-9DC45259E1FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B5E6216-7DEE-48D9-B458-9DC45259E1FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B5E6216-7DEE-48D9-B458-9DC45259E1FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B5E6216-7DEE-48D9-B458-9DC45259E1FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12D43EB3-859A-4F9A-BBC9-468334444711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D43EB3-859A-4F9A-BBC9-468334444711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D43EB3-859A-4F9A-BBC9-468334444711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D43EB3-859A-4F9A-BBC9-468334444711}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5EC0310-08DE-4E77-A839-A7E06DDD7D0A}
+	EndGlobalSection
+EndGlobal
